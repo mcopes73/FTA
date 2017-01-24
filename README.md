@@ -1,4 +1,4 @@
-# Foundamental Theorem of Arithmetic
+# Fundamental Theorem of Arithmetic
 
 I propose an algorithm for efficently calculating the prime factorization of a number and fully certified it both in Coq v8.4 and Isabelle/HOL 2015.
 
